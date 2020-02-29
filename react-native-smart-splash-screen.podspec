@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.license      = package['license']
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/sam17896/react-native-smart-splash-screen" }
+  s.source       = { :git => "https://github.com/sunkibaek/react-native-smart-splash-screen" }
   s.source_files  = "ios/RCTSplashScreen/RCTSplashScreen/RCTSplashScreen.{h,m}"
 
   s.dependency 'React'
